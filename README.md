@@ -1,6 +1,5 @@
 
-# Web Scraper
-## Welcome! 👋
+# Web Scraper👋
 Challenges help you improve your coding skills by building realistic projects. This challenges is a perfect portfolio pieces, so please feel free to use what you create in your portfolio to show others.
 **To do this challenge, you need a strong understanding of Python**
 
